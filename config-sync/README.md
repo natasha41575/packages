@@ -1,7 +1,7 @@
 # config-sync
 
 ## Description
-sample description
+Contains CS manifests built from HEAD of main (last updated 2/23/23)
 
 ## Usage
 
